@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RaceHelper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../paed-2021-p2-g15/libs/RaceHelper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
